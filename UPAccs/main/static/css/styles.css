@@ -1,0 +1,22 @@
+/* admin_custom.css */
+body {
+    background-color: #000; /* Черный цвет для фона */
+    color: #FFA500; /* Оранжевый цвет для текста */
+}
+
+.module caption {
+    background-color: #FFA500; /* Оранжевый цвет для заголовков модулей */
+}
+
+.module th {
+    background-color: #FFA500; /* Оранжевый цвет для заголовков таблиц */
+}
+
+.module td {
+    background-color: #333; /* Темно-серый цвет для ячеек таблиц */
+    color: #FFA500; /* Оранжевый цвет для текста в ячейках */
+}
+
+.module .addlink, .module .deletelink, .module .changelink {
+    color: #FFA500; /* Оранжевый цвет для ссылок */
+}
